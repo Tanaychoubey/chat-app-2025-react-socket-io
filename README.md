@@ -2,7 +2,7 @@
 
 A real-time chat application built with React, Node.js, PostgreSQL, and Socket.IO.
 
-🔗 **Live App**: https://chat.webvana.in/chat
+🔗 **Live App**: https://chat.webvana.in
 
 ## 🧪 Test Accounts
 
